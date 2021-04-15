@@ -2,6 +2,8 @@ import React, { useRef, useState, useEffect } from 'react';
 import { HomeScreen } from './HomeScreen';
 import { FooterPlayer } from './FooterPlayer';
 
+//añado un cometario de prueba
+
 /*type SelectedTrackState = {
     track?: {                   //opcional??
         id: number,
